@@ -1,2 +1,2 @@
-# Delete-VIP
-Standard template to delete the Virtual Server on ADC device's (F5, A10, Citrix)
+# Delete-Virtual-Server
+ Used to clean up the configuration of an existing virtual server from a F5/Citrix Netscaler load balancer
